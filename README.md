@@ -113,5 +113,5 @@ Bugs and Issues
 [Travis CI]:         https://travis-ci.org/shadowsocks/shadowsocks
 [Troubleshooting]:   https://github.com/Long-live-shadowsocks/shadowsocks/wiki/Troubleshooting
 [Wiki]:              https://github.com/Long-live-shadowsocks/shadowsocks/wiki
-[Windows]:           https://github.com/Long-live-shadowsocks/shadowsocks-csharp
+[Windows]:           https://github.com/Long-live-shadowsocks/shadowsocks-windows
 [中文说明]:          https://github.com/Long-live-shadowsocks/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
